@@ -1,4 +1,5 @@
 **Super Store Sales Dashboard**
+
 This Power BI dashboard provides a comprehensive analysis of sales performance, customer behavior, and product profitability. It includes key insights such as total sales, profit margins, top-selling products, and regional sales distribution, helping businesses make data-driven decisions.
 
 **Key Metrics :**
@@ -9,7 +10,8 @@ Regional Sales Performance – Sales trends across different locations.
 Order Trends & Discounts – Impact of discounts on revenue.
 
 
-Credit Card Financial Dashboard
+**Credit Card Financial Dashboard**
+
 A financial analytics dashboard built in Power BI to track and analyze credit card transactions. It showcases revenue, transaction amounts, and interest earnings across different card categories, offering valuable insights into customer spending patterns and financial performance.
 
 **Key metrics :**
