@@ -3,15 +3,16 @@
 This Power BI dashboard provides a comprehensive analysis of sales performance, customer behavior, and product profitability. It includes key insights such as total sales, profit margins, top-selling products, and regional sales distribution, helping businesses make data-driven decisions.
 
 **Key Metrics :**
-Total Sales & Profit – Overview of revenue and profitability.
 
-Top-Selling Products – Identification of best-performing products.
+✅ Total Sales & Profit – Overview of revenue and profitability.
 
-Customer Segmentation – Analysis of customer behavior by category.
+✅ Top-Selling Products – Identification of best-performing products.
 
-Regional Sales Performance – Sales trends across different locations.
+✅ Customer Segmentation – Analysis of customer behavior by category.
 
-Order Trends & Discounts – Impact of discounts on revenue.
+✅ Regional Sales Performance – Sales trends across different locations.
+
+✅ Order Trends & Discounts – Impact of discounts on revenue.
 
 
 **Credit Card Financial Dashboard**
@@ -20,12 +21,12 @@ A financial analytics dashboard built in Power BI to track and analyze credit ca
 
 **Key metrics :**
 
-Total Revenue & Transactions – Aggregated financial data by card type.
+✅ Total Revenue & Transactions – Aggregated financial data by card type.
 
-Interest Earned – Breakdown of interest income per card category.
+✅ Interest Earned – Breakdown of interest income per card category.
 
-Card Category Performance – Comparison of financial contributions from different cards.
+✅ Card Category Performance – Comparison of financial contributions from different cards.
 
-Transaction Volume Trends – Analysis of spending behavior over time.
+✅ Transaction Volume Trends – Analysis of spending behavior over time.
 
 Customer Spending Insights – Identifying high-value customers and spending patterns.
