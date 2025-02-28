@@ -16,6 +16,8 @@ This Power BI dashboard provides a comprehensive analysis of sales performance, 
 
 
 
+
+
 📊 **Credit Card Financial Dashboard**
 
 A financial analytics dashboard built in Power BI to track and analyze credit card transactions. It showcases revenue, transaction amounts, and interest earnings across different card categories, offering valuable insights into customer spending patterns and financial performance.
